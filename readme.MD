@@ -9,5 +9,5 @@ pip install -r requirements.txt
 - Configurar las variables del archivo .env para correrlo localmente
 - Ejecutar desde main.py
 ```
-python main.py
+python [app/]main.py
 ```
